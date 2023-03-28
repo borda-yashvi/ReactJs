@@ -1,0 +1,60 @@
+.card_1{
+    background-color: blue;
+    width: 400px;
+    height: 300px;
+    font-size: 30px;
+    font-style:unset;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 50px;
+    text-align: center;
+    text-shadow: 20px 20px 7px white ;
+   
+}
+.card_2{
+    background-color: rgb(218, 88, 88);
+    width: 400px;
+    height: 300px;
+    font-size: 50px;
+    font-style:unset;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 50px;
+    text-align: center;
+    text-shadow: 20px 20px 7px white ;
+}
+.card_3{
+    background-color: rgb(141, 79, 21);
+    width: 400px;
+    height: 300px;
+    font-size: 50px;
+    font-style:unset;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 50px;
+    text-align: center;
+    text-shadow: 20px 20px 7px white ;
+}
+.card_4{
+    background-color: rgb(26, 138, 69);
+    width: 400px;
+    height: 300px;
+    font-size: 50px;
+    font-style:unset;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 50px;
+    text-align: center;
+    text-shadow: 20px 20px 7px white ;
+}
+h1{
+  text-align: center;
+}
+h2{
+    text-align: center;
+  }
+@media(max-width:700px){
+    .card__total{
+        font-size: 200px;
+    }
+}
+span{
+    font-size: 50%;
+
+}
